@@ -9,9 +9,9 @@ const firebaseConfig = {
   authDomain: "crud-a2ea5.firebaseapp.com",
   databaseURL: "https://crud-a2ea5-default-rtdb.firebaseio.com",
   projectId: "crud-a2ea5",
-  storageBucket: "crud-a2ea5.appspot.com",
+  storageBucket: "crud-a2ea5.firebasestorage.app",
   messagingSenderId: "65633150482",
-  appId: "1:65633150482:web:a215f05efff7373fc9dacb",
+  appId: "1:65633150482:web:a215f05efff7373fc9dacb"
 };
 
 // Initialize Firebase
